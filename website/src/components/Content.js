@@ -31,7 +31,7 @@ export function Content(props) {
     //             })
     //     })
     // }
-    const postURL = "https://public-api.wordpress.com/rest/v1.1/sites/google588596873.wordpress.com/posts/&pretty=true"
+    const postURL = "https://public-api.wordpress.com/rest/v1.1/sites/google588596873.wordpress.com/posts/"
 
     return (
         <main class="content">
